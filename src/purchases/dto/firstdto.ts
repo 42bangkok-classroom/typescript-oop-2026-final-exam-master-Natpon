@@ -1,6 +1,6 @@
-export class first {
+export interface first {
     success:boolean;
-    data:Ve[] ;
+    data: Ve;
     massage:string;
     
 }
